@@ -1,1 +1,1 @@
-web: gunicorn mfhorita-yfinance.wsgi -- max-requests 1200
+web: streamlit execute app.py
