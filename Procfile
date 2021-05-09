@@ -1,1 +1,1 @@
-web: gunicorn yfinance-streamlit.wsgi -- max-requests 1200
+web: gunicorn mfhorita-yfinance.wsgi -- max-requests 1200
